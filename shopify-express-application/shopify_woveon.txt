@@ -1,0 +1,61 @@
+https://6427c851956cea6a1a678a2474afb7fc:261caa5a5c809b1407b2bc79c14359c3@store-woveon-1.myshopify.com/admin/orders.json
+
+// Test url
+http://localhost:3000/shopify?shop=store-woveon-1.myshopify.com
+
+SHOPIFY_API_KEY="6427c851956cea6a1a678a2474afb7fc"
+SHOPIFY_API_SECRET="261caa5a5c809b1407b2bc79c14359c3"
+
+
+Partner store details
+https://partners.shopify.com/organizations
+https://partners.shopify.com/signup
+
+Woveon1
+store name:
+woveon_public_store_1
+
+https://woveon-public-store-1.myshopify.com/admin
+
+private_app_1
+
+https://c7b83cfd5cc1f8d4f1f5052a2d78045b:1d2fa419fdaf30369587926e54031aa0@woveon-public-store-1.myshopify.com/admin/orders.json
+
+api_key
+c7b83cfd5cc1f8d4f1f5052a2d78045b
+password
+0f89a622f74d6cf02fee385dc5ec510c
+
+// Test url
+http://localhost:3000/shopify?shop=woveon-public-store-1.myshopify.com
+https://38fd04bd.ngrok.io/shopify?shop=woveon-public-store-1.myshopify.com
+
+
+****************************************
+ https://www.shopify.ca/partners
+ *******************************
+ https://partners.shopify.com/795330/apps
+ url to access the partner shopify
+ 
+partner shopify
+https://partners.shopify.com
+https://dev-store-woveon-1.myshopify.com/admin/settings/notifications
+
+app name = 
+woveon_public_app_2
+
+key=
+584c49c20f8fd2ca6ac1d91cb36bb1fc
+password=
+a00eea47f004dbf958f056ba363075a5
+
+
+https://partners.shopify.com/795330/apps/2469145/edit
+
+
+https://38fd04bd.ngrok.io/new_online_order
+
+// Test url
+http://localhost:3000/shopify?shop=woveon_public_app_2.myshopify.com
+https://38fd04bd.ngrok.io/shopify?shop=woveon_public_app_2.myshopify.com
+https://38fd04bd.ngrok.io/shopify/callback?shop=woveon_public_app_2.myshopify.com
